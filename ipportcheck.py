@@ -30,7 +30,7 @@ def anim(bcolors):
     print(bcolors.OKBLUE+"         \  (oo)\_______"+ bcolors.ENDC)
     print(bcolors.OKBLUE+"            (__)\       )/\/"+ bcolors.ENDC)
     print(bcolors.OKBLUE+"                ||----w |"+ bcolors.ENDC)
-    print(bcolors.OKBLUE+"                ||     ||   https://github.com/Rikozi/ipportcheck.py"+ bcolors.ENDC)
+    print(bcolors.OKBLUE+"                ||     ||   https://github.com/Rikozi/ipportcheck"+ bcolors.ENDC)
 anim(bcolors)
 parser = OptionParser( """
 Usage: python3 ipportcheck.py [options]
