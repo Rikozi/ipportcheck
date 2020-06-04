@@ -22,3 +22,12 @@ ex:
 ## Bugs and enhancements
 
 For bug reports or enhancements, please open an [issue](https://github.com/Rikozi/ipportcheck/issues) here.
+## Install SET
+
+```bash
+git clone https://github.com/Rikozi/ipportcheck.git
+unzip ipportcheck-master.zip
+cd ipportcheck-master
+python3 setup.py
+python3 ipportcheck.py
+```
