@@ -26,8 +26,7 @@ For bug reports or enhancements, please open an [issue](https://github.com/Rikoz
 
 ```bash
 git clone https://github.com/Rikozi/ipportcheck.git
-unzip ipportcheck-master.zip
-cd ipportcheck-master
+cd ipportcheck
 python3 setup.py
 python3 ipportcheck.py
 ```
