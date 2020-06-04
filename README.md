@@ -22,6 +22,8 @@ ex:
    script.py -p 80
    script.py -port 80
    ```
+![alt text](https://raw.githubusercontent.com/Rikozi/ipportcheck/master/example.png?raw=true)
+
 ## Bugs and enhancements
 
 For bug reports or enhancements, please open an [issue](https://github.com/Rikozi/ipportcheck/issues) here.
