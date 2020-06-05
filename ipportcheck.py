@@ -37,8 +37,8 @@ Usage: python3 ipportcheck.py [options]
 options:
 -p / --port :: Port that do you want to get
 ex:
-   script.py -p 80
-   script.py -port 80
+   python3 ipportcheck.py -p 80
+   python3 ipportcheck.py -port 80
 
 """)
 parser.add_option("-p","--port",type="string",dest="port",help="Port that do you want to get")
