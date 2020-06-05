@@ -19,8 +19,8 @@ Usage: python3 ipportcheck.py [options]
 options:
 -p / --port :: Port that do you want to get
 ex:
-   ipportcheck.py -p 80
-   ipportcheck.py -port 80
+   python3 ipportcheck.py -p 80
+   python3 ipportcheck.py -port 80
    ```
 ![alt text](https://raw.githubusercontent.com/Rikozi/ipportcheck/master/example.png?raw=true)
 
