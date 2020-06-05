@@ -13,14 +13,14 @@ _______________
          \  (oo)\_______
             (__)\       )/\/
                 ||----w |
-                ||     ||   https://github.com/Rikozi/ipportcheck.py
+                ||     ||   https://github.com/Rikozi/ipportcheck
 
 Usage: python3 ipportcheck.py [options]
 options:
 -p / --port :: Port that do you want to get
 ex:
-   script.py -p 80
-   script.py -port 80
+   ipportcheck.py -p 80
+   ipportcheck.py -port 80
    ```
 ![alt text](https://raw.githubusercontent.com/Rikozi/ipportcheck/master/example.png?raw=true)
 
